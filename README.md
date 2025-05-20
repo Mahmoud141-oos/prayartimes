@@ -14,7 +14,7 @@ If you are developing a production application, we recommend using TypeScript an
 ## How to use files?
 
 - Write in command ==> npm install
-- Than ==> npm run dev
+- Then ==> npm run dev
 
 ## Website 
 
